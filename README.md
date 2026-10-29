@@ -422,9 +422,7 @@ Built by Ayushi Tiwari to demonstrate distributed systems, security engineering,
 This project is inspired by modern payment systems like UPI. It uses a mock bank for simulation and is intended for learning and portfolio purposes. Live demo and demo video coming soon.
 
 
-## Acknowledgements
 
-This project was inspired by the [UPI Without Internet](https://github.com/perryvegehan/UPI_Without_Internet) repository. SyncPay is a complete from-scratch implementation built with React, Spring Boot, and PostgreSQL, adding offline queue management, reserved balance double-spending prevention, crash recovery, dead letter queue handling, and comprehensive load testing.
 
 
 
